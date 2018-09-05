@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/carmenmitru/spectre-1.git
-  revision: c55325a3a13b9a80c20985a73caae512e3778c3f
+  revision: 92535945034a3b7ca0161c9edb1f8965c2de918f
   specs:
     spectre_client (0.1.87)
       rest-client (~> 1.8.0)
